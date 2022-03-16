@@ -1,3 +1,3 @@
 # SupWMA-TrainingData
 
-Training data for SupWMA is in release.
+Training data for SupWMA is in the Release.
